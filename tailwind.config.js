@@ -23,6 +23,9 @@ module.exports = {
       colors: {
         dark:"#18181b",
       },
+      aspectRatio: {
+        '16/9': '16 / 9',
+      },
       fontSize: {
         'xs': '.75rem',
         'sm': '.875rem',
